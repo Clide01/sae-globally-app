@@ -1,0 +1,15 @@
+{
+  "appId": "com.bluealpha.saeglobally",
+  "appName": "SAE Globally",
+  "webDir": "www",
+  "server": {
+    "url": "https://sae-sold-globally.bluealpha1365.workers.dev",
+    "hostname": "sae-sold-globally.bluealpha1365.workers.dev",
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0f0f16"
+  }
+}
